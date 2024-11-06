@@ -1,0 +1,10 @@
+{
+  "projects": {},
+  "targets": {},
+  "etags": {
+    "svits-test": {
+      "extensionInstances": {}
+    }
+  },
+  "dataconnectEmulatorConfig": {}
+}
